@@ -1,0 +1,27 @@
+# Ignore OS metadata
+.DS_Store
+Thumbs.db
+.trash/
+
+# Ignore Obsidian workspace settings if desired
+.obsidian/workspace
+.obsidian/workspace.json
+
+# to exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
+# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
+.obsidian/plugins
+
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+
+# to exclude workspace cache specific to mobile devices
+.obsidian/workspace-mobile.json
+
+# Raw assets (optional, depending on if user wants them in git)
+# /raw/assets/
+
+# Syncthing
+.stfolder/
+
