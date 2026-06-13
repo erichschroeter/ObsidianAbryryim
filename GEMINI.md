@@ -6,6 +6,10 @@ This file defines the structure, conventions, and workflows for the ObsidianAbry
 
 - `/raw/`: Contains original, immutable source documents (articles, papers, logs).
 - `/wiki/`: Contains the LLM-generated wiki pages.
+    - `/wiki/locations/`: Wiki pages for cities, landmarks, and geographic features.
+    - `/wiki/entities/`: Wiki pages for races, organizations, and specific people.
+    - `/wiki/concepts/`: Wiki pages for events, artifacts, and abstract ideas.
+    - `/wiki/sources/`: Summaries and analysis of specific files from `/raw/`.
     - `/wiki/assets/`: Contains images and other media referenced by wiki pages.
     - `/wiki/index.md`: A catalog of all pages in the wiki.
     - `/wiki/log.md`: A chronological record of all operations.
@@ -17,8 +21,8 @@ When a new file is added to `/raw/`, follow these steps:
 1.  **Read**: Analyze the source document.
 2.  **Discuss**: Share key takeaways and proposed wiki updates with the user.
 3.  **Implement**: 
-    - Create or update a source-specific summary page in `/wiki/`.
-    - Update or create relevant entity/concept pages in `/wiki/`.
+    - Create or update a source-specific summary page in `/wiki/sources/`.
+    - Update or create relevant entity/concept/location pages in the appropriate `/wiki/` subdirectories.
     - Maintain cross-references (links) between pages.
     - Update `/wiki/index.md`.
     - Append an entry to `/wiki/log.md`.
