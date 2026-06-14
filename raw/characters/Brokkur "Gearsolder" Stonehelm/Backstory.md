@@ -1,4 +1,4 @@
-Brokkur "Gearsolder" Stonehelm
+# Brokkur "Gearsolder" Stonehelm
 Class: Artificer (Armorer subclass)
 Homeland: Windford, the City of Vaults
 
@@ -53,3 +53,44 @@ Brokkur has left Windford. He is traveling the world of Abryryim as an adventure
 He wants to return to Windford, bypass Lord Grizfane's "unbreachable" vault defenses, and recover his father’s remains. To do that, he needs to build a device capable of withstand the crushing pressure of the flooded vaults. He needs Dark Diamond Ore, and he needs to learn the secrets of the Forge of Heaven to shape it into the ultimate protective suit.
 
 He travels with your group not just as a comrade, but as their guardian angel. He watches over them with a hyper-vigilant, protective eye, constantly tinkering, constantly upgrading, ensuring that this time, everyone comes home alive.
+
+# Astrid Stonehelm
+
+Astrid has always been a woman of the sea, even before she met her husband, Thrain. While other young dwarves were obsessed with the heat and glamour of the Forge of Heaven, Astrid was fascinated by the cold pressure and engineering challenges of the 100-mile clam farms. For her entire adult life, she has worked the grids as a Veteran Grid-Overseer, Windford Mariculture Cooperative, supervising the mariculture platforms that suspend millions of pearl-bearing clams just above the seabed.
+
+Astrid’s job is a complex mix of industrial agriculture and heavy engineering. Managing 100 miles of lines, anchoring platforms against deep-sea currents, and seeding the mollusks to create rare pearls requires constant vigilance.
+
+Because the most valuable pearls grow in the highest-pressure depths, the work demands heavy **dwarven diving apparatus.** These suits are not simple wetsuits; they are masterpieces of aquatic plate mail—walking, sealed exoskeletons forged from mithral and brass, capable of withstanding the killing crush of the ocean trench.
+
+### The Grief: Burying Herself in the Depths
+
+Astrid did not leave her job when Thrain passed. If anything, she became fused with it. When Thrain died, the grief was overwhelming. He died because infrastructure failed him.
+
+Her response was to ensure **nothing ever failed again under her watch.**
+
+Astrid channeled her loss into an aggressive, terrifying standard of safety and perfection. She no longer works a standard shift. She likely holds the record for consecutive "Water-Time" hours.
+
+* **Obsessive Safety Checks:** Where other Grid-Overseers accept 98% efficiency on current-lines, Astrid demands 100%. She will personally dive, sometimes days at a time, checking every anchor, every weld, and every seal. Her grief manifests as an anxiety that only hyper-competence can soothe.
+* **The Comfort of the Deep:** Inside her massive diving suit, she is alone. Inside the suit, life is binary: the gauge is either green (safe) or red (danger). She finds peace in the silence of the black water, where the noise of Windford’s markets and the pitying looks of her neighbors cannot reach her.
+
+### The Legacy: The Source of Brokkur’s Armour
+
+Brokkur grew up watching his mother disappear into these suits. For hours at a time, his only connection to her was a silhouette floating in the massive maintenance vats where the suits were serviced, steam rising from the heavy brass plating.
+
+A young Brokkur internalized a critical concept by watching Astrid:
+
+> *"A dwarf can survive anything—the dark, the cold, the absolute crushing pressure of the universe—if they are encased in a masterfully designed suit."*
+
+While his mother utilized these suits to escape the world and manage her grief, Brokkur likely saw them as the ultimate expression of control and protection. When he became an Artificer (perhaps a **Guardian-model Armorer** or an **Artillerist**), his first instinct wasn't to build weapons. He wanted to build *shelter*.
+
+Brokkur didn't just build armor; he built a mobile sanctuary, an exoskeleton inspired by the memory of his steadfast mother, to protect his new "family" (his adventuring team) from ever experiencing the "crush" of loss again.
+
+# 2 Best Friends
+
+Brokkur found his place in a legendary, rule-breaking trio in the city. Together, they were a rogue research-and-development team, combining raw magic, brilliant engineering, and a fearless test pilot.
+
+* **Vara Ironlung (The First Muse & Brokkur's Crush):** A young dwarf whose job was to swim the freezing, dangerous outer edges of the 100-mile clam farms to pay off a staggering family debt. She put on a brave face, but Brokkur knew she secretly terrified of the crushing darkness of the water. Harboring a massive, tongue-tied crush on her, Brokkur couldn't bear the thought of her in danger. He spent months in his workshop secretly tinkering, eventually gifting her a rudimentary, handheld water-propeller and a custom heat-retaining under-suit. Vara was the first person Brokkur ever built a *protective* device for—and his desperate desire to keep her safe was the very first spark of his Armorer instincts.
+* **Kildrak the Scribe (The Arcane Conduit):** A frail, bookish dwarf who served as the apprentice scribe to one of Windford’s elite arcane wizards. Kildrak had no stomach for the dirt or physical labor, but his mind was a sponge for magical theory, runes, and planar matrices. He would sneak forbidden grimoires and discarded scroll fragments out of his master's tower for Brokkur to study. In exchange for Brokkur secretly repairing the wizard's delicate, shattered alchemical glassware, Kildrak helped Brokkur translate raw arcane principles into mechanical blueprints. It was through Kildrak’s smuggled knowledge that Brokkur learned how to bind magic directly into metal, unlocking the secret to his Artificer infusions.
+
+**How They Played:**
+The dynamic was flawless. Kildrak provided the complex magical equations, Brokkur built the impossible brass-and-iron gadgets, and Vara was the daring pilot who tested Brokkur's early prototypes in the high-pressure depths of the clam farms. They were each other's keepers, and the bond they formed under the city roots shaped the legendary engineer Brokkur would become.
