@@ -20,6 +20,8 @@ Welcome to the LLM Wiki. This file is an automatically maintained catalog of all
 
 ### Concepts & Events
 - [[Aditus]]
+- [[Dark Diamond Ore]]
+- [[Forge of Heaven]]
 - [[Four-Fold Endurance]]
 - [[Pillars of Heaven]]
 - [[Putes Aminus]]
