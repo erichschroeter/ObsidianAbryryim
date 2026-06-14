@@ -5,6 +5,7 @@ Welcome to the LLM Wiki. This file is an automatically maintained catalog of all
 ## Categories
 
 ### Sources
+- [[Barony_of_the_Key_and_Sword_Source]]
 - [[Cities_Source]]
 
 ### Entities (Races & Organizations)
@@ -12,9 +13,11 @@ Welcome to the LLM Wiki. This file is an automatically maintained catalog of all
 - [[Avitum]]
 - [[Council of Eight]]
 - [[Forbarrens]]
+- [[House Aldric]]
 - [[Knights of Calor]]
 - [[Knights of Prophecy]]
 - [[Sea Wizards]]
+- [[Sir Aldric the Warden]]
 - [[The Ruling Five]]
 - [[The Walkers]]
 
@@ -26,9 +29,11 @@ Welcome to the LLM Wiki. This file is an automatically maintained catalog of all
 - [[Pillars of Heaven]]
 - [[Putes Aminus]]
 - [[The Cleansing]]
+- [[War of Broken Crowns]]
 
 ### Locations
 - [[Arachine Swamp]]
+- [[Barony of the Key and Sword]]
 - [[Basion]]
 - [[Bellfield]]
 - [[Cillicia]]

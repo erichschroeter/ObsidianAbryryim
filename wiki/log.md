@@ -2,6 +2,7 @@
 
 Chronological record of all wiki operations.
 
+## [2026-06-13] ingest | Processed raw/Barony of the Key and Sword.md and associated heraldry image, creating pages for the Barony, House Aldric, Sir Aldric, and the War of Broken Crowns.
 ## [2026-06-13] query | Answered query about Dark Diamond Ore and created dedicated pages for [[Dark Diamond Ore]] and [[Forge of Heaven]].
 ## [2026-06-13] setup | Initialized wiki structure and schema.
 ## [2026-06-13] ingest | Processed raw/Cities.md, creating 46 location pages and 14 concept/entity pages.
