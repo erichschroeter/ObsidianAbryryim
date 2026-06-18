@@ -6,6 +6,13 @@ hobbies: Alchemy
 ---
 # Brokkur Stonehelm
 
+
+| Class:    | Artificer                    |
+| --------- | ---------------------------- |
+| Subclass: | Armorer                      |
+| Homeland: | Windford, the City of Vaults |
+| Hobbies:  | Alchemy                      |
+
 ### Childhood
 To the dwarves of Windford, stone is sacred. They shape it, mine it, and worship its silence. But from the moment Brokkur was born, he did not care for the quiet of stone. He cared for the clack-clack-clack of brass.
 
