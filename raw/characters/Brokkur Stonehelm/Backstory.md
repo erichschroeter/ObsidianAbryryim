@@ -1,11 +1,12 @@
-# Brokkur Stonehelm
-Class: Artificer (Armorer subclass)
-Homeland: Windford, the City of Vaults
-Hobbies: Alchemy
-
 ---
+class: Artificer
+subclass: Armorer
+homeland: Windford, the City of Vaults
+hobbies: Alchemy
+---
+# Brokkur Stonehelm
 
-### Act I: The Ticking Cradle
+### Childhood
 To the dwarves of Windford, stone is sacred. They shape it, mine it, and worship its silence. But from the moment Brokkur was born, he did not care for the quiet of stone. He cared for the clack-clack-clack of brass.
 
 His mother, Astrid, often tells the story of how she would lay him down on a soft woolen blanket, only to find him minutes later, crawling with terrifying speed toward the nearest heat-lamp or ticking clockwork surveyor. He didn't play with wooden toys; he played with the gears his father brought home from the deep vaults.
@@ -16,7 +17,7 @@ He didn't just understand machines. He spoke to them. And they spoke back.
 
 ---
 
-### Act II: The Protocol of Lord Grizfane
+### Tragedy
 His father, Thrain, was a surveyor for Lord Grizfane Goldentooth, tasked with mapping the deepest, most dangerous vaults carved into Windford’s coastal cliffs. Thrain was Brokkur’s hero—a quiet dwarf who wore the scent of sea-salt and coal smoke, and who always brought Brokkur strange, broken mechanical scrap from the deep dark.
 
 When Brokkur was twelve, his father took him deep into the vaults to show him the great pneumatic water-gates. It was a routine inspection. But deep beneath the ocean level, a sudden seismic tremor tore through the cliffside. A support beam snapped. A massive stone block crashed down, pinning Thrain’s leg to the stone floor.
@@ -37,7 +38,7 @@ He was entirely helpless. He had all the talent in the world, and it hadn't save
 
 ---
 
-### Act III: "Never Out of Reach"
+### Solution
 The grief didn't break Brokkur; it forged him. He swore a solemn oath to his father’s memory: No one would ever die because a machine failed, or because he was too weak to reach them.
 
 He stopped building weapons of war. He dedicated his genius to the art of preservation.
