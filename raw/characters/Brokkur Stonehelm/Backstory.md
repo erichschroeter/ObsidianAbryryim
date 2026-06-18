@@ -1,4 +1,4 @@
-# Brokkur "Gearsolder" Stonehelm
+# Brokkur Stonehelm
 Class: Artificer (Armorer subclass)
 Homeland: Windford, the City of Vaults
 Hobbies: Alchemy
