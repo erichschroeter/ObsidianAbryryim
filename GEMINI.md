@@ -7,7 +7,7 @@ This file defines the structure, conventions, and workflows for the ObsidianAbry
 - `/raw/`: Contains original, immutable source documents. Organized as follows:
     - `/raw/characters/players/`: Backstories, sheets, and player character images.
     - `/raw/characters/npcs/`: Portraits and information for NPCs.
-    - `/raw/campaign/recaps/`: Session summaries and recaps.
+    - `/raw/campaign/recaps/`: Consolidates DM recaps and player notes into single files named by session date (e.g., YYYY-MM-DD.md).
     - `/raw/world/lore/`: General setting history, pantheons, and background documents.
     - `/raw/world/locations/`: Text guides for cities, regions, and landmarks.
     - `/raw/world/maps/`: Image maps and layout assets.
