@@ -9,5 +9,8 @@ Chronological record of all wiki operations.
 ## [2026-06-14] refactor | Reorganized wiki directory into subdirectories (locations/, entities/, concepts/, sources/) and updated index and instructions.
 ## [2026-07-07] refactor | Reorganized raw/ directory structure to align with Discord-based campaign organization and updated wiki configuration.
 ## [2026-07-07] refactor | Consolidated session notes and DM recaps under raw/campaign/recaps/ using single YYYY-MM-DD.md files.
+## [2026-07-07] ingest | Ingested world lore, history, gods, baronies, and world organizations files, creating 7 source pages, 4 concept/subclass pages, 7 locations, and 15 entities/organizations, and updated the Cleansing details.
+
+
 
 

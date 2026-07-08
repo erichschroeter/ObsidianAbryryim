@@ -1,14 +1,20 @@
 ---
-type: organization
-tags: [knights, prophecy, order]
+type: entity
+tags: [organization, knight, prophecy]
 ---
 
 # Knights of Prophecy
 
-The Knights of Prophecy are an order responsible for delivering prophecies from the island of [[Iepos]] to the mainland of Abryryim.
+The Knights of Prophecy is a holy order of guardians sworn to protect the prophecies of ascension.
 
-## Details
-The prophecies originate in the temporal vortex of [[Iepos]] and are carried across the sea to the mainland. The order is closely tied to the mystical and superstitious traditions of cities like [[Pistivo]].
+## Role & Mission
+- **Prophecy Insight**: Members are touched by divine power and granted insight into one deity's ascension prophecy.
+- **The Council**: They travel to the [[Island of Prophecy]] to report their visions to the Council.
+- **Protection**: Empowered with prophetic magic, they defend the cycle against subversion.
+
+## Related
+- [[Knights of Prophecy Subclass]]
+- [[Island of Prophecy]]
 
 ## Sources
-- [[Cities_Source]]
+- [[Knights_of_Prophecy_Source]]
