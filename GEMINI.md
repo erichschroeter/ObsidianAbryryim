@@ -4,7 +4,16 @@ This file defines the structure, conventions, and workflows for the ObsidianAbry
 
 ## Directory Structure
 
-- `/raw/`: Contains original, immutable source documents (articles, papers, logs).
+- `/raw/`: Contains original, immutable source documents. Organized as follows:
+    - `/raw/characters/players/`: Backstories, sheets, and player character images.
+    - `/raw/characters/npcs/`: Portraits and information for NPCs.
+    - `/raw/campaign/recaps/`: Session summaries and recaps.
+    - `/raw/world/lore/`: General setting history, pantheons, and background documents.
+    - `/raw/world/locations/`: Text guides for cities, regions, and landmarks.
+    - `/raw/world/maps/`: Image maps and layout assets.
+    - `/raw/world/organizations/`: Faction, guild, and organization documents.
+    - `/raw/visuals/symbols/`: Crests, flags, and coat-of-arms assets.
+    - `/raw/rules-and-reference/`: Reference rulebooks, homebrew class documents, and transcripts.
 - `/wiki/`: Contains the LLM-generated wiki pages.
     - `/wiki/locations/`: Wiki pages for cities, landmarks, and geographic features.
     - `/wiki/entities/`: Wiki pages for races, organizations, and specific people.
@@ -13,6 +22,7 @@ This file defines the structure, conventions, and workflows for the ObsidianAbry
     - `/wiki/assets/`: Contains images and other media referenced by wiki pages.
     - `/wiki/index.md`: A catalog of all pages in the wiki.
     - `/wiki/log.md`: A chronological record of all operations.
+
 
 ## Core Workflows
 

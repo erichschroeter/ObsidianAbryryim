@@ -17,4 +17,5 @@ The source covers a wide array of environments, from the frigid [[Snowshield]] t
 - **Religious and Political Structures**: Unique governance models like [[The Ruling Five]] in [[Ebonhaven]] or the Council of Eight in [[Elisheba]].
 
 ## Sources
-- [[Cities.md]]
+- [[raw/world/locations/Cities.md]]
+

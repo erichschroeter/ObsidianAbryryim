@@ -24,4 +24,5 @@ This document details the history and origins of the [[Barony of the Key and Swo
 - [[War of Broken Crowns]]
 
 ## Metadata
-- **Source File**: `raw/Barony of the Key and Sword.md`
+- **Source File**: `raw/world/locations/Barony of the Key and Sword.md`
+
