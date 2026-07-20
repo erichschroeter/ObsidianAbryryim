@@ -21,4 +21,4 @@ This document outlines the background and abilities of [[Araminta Rosk]] (also k
 
 ## Sources
 - [[raw/characters/players/Araminta Rosk/Backstory.pdf]]
-- [[raw/characters/players/Araminta Rosk/charactersheet-4.pdf]]
+- [[Araminta Rosk - 4th Level Cleric.pdf]]

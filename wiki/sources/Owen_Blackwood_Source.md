@@ -20,4 +20,4 @@ This document outlines the early life, military service, and moral journey of [[
 
 ## Sources
 - [[raw/characters/players/Owen Blackwood/Backstory.md]]
-- [[raw/characters/players/Owen Blackwood/charactersheet-4.pdf]]
+- [[Owen Blackwater - 4th Level Fighter.pdf]]

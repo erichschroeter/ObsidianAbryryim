@@ -22,4 +22,4 @@ This document outlines the family lineage, academic chaos, and relic reclamation
 
 ## Sources
 - [[raw/characters/players/Eudora Aetherwyn/Backstory.pdf]]
-- [[raw/characters/players/Eudora Aetherwyn/charactersheet-4.pdf]]
+- [[Eudora Aetherwyn - 4th Level Sorcerer.pdf]]

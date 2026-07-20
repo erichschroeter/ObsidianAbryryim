@@ -19,4 +19,4 @@ This document records the official character parameters and personal details of 
 - [[Zephyr Mountains]]
 
 ## Sources
-- [[raw/characters/players/Telemanus ti Fjall/charactersheet-4.pdf]]
+- [[Telemanus Fjall - 4th Level Ranger.pdf]]

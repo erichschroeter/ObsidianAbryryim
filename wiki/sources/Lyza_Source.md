@@ -19,4 +19,4 @@ This document details the background and magic studies of [[Lyza]], a Human Wiza
 
 ## Sources
 - [[raw/characters/players/Lyza/Backstory.md]]
-- [[raw/characters/players/Lyza/charactersheet-4.pdf]]
+- [[Lyza - 4th Level Wizard.pdf]]
